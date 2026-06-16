@@ -1,0 +1,6 @@
+{
+  "name": "OIC Flow Document Generator",
+  "description": "An automated compiler and generator that parses Oracle Integration Cloud (.iar/xml) archives to build Technical Design Documents (TDD) with interactive Mermaid.js architecture and sequence diagrams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
